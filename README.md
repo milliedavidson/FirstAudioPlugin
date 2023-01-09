@@ -1,1 +1,1 @@
-
+Hello! I'm making my first audio plugin with JUCE. Music plugins are my favourite thing to buy and I've always been curious to make one myself. This is a repository to document the process, test things out and make mistakes.
